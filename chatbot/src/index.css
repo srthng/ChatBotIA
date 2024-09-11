@@ -66,3 +66,61 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+header{
+  color: rgb(23, 48, 28);
+  display: flex;
+  flex-direction: row;
+  height:600px;
+  justify-content: space-between;
+  
+  
+  
+  
+}
+a{
+color: white !important;
+}
+
+
+.botaodirecional1{
+width: 100px;
+height: 50px ;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 5px;
+background-color: rgb(23, 48, 28);
+color: white;
+}
+
+.botaodirecional2{
+  width: 100px;
+  height: 50px ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  background-color: rgb(23, 48, 28);
+color: white;
+}
+
+
+
+.inicio{
+  padding: 20px;
+  font-size: 10px;
+}
+
+.meio{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 20px;
+}
+
+.fim{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 20px;
+}
