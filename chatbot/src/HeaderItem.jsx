@@ -9,7 +9,6 @@ export default  function HeaderItem () {
 
             <div className="meio">
             <div className="botaodirecional1"><Link to="/">Home</Link></div>
-            <div className="botaodirecional2"><Link to="Chatbot">Chatbot</Link></div>
             <div className="botaodirecional2"><Link to="Chatbot">Marketplace</Link></div>
             </div>
    
